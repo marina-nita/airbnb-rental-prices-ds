@@ -1,0 +1,2 @@
+le = LabelEncoder()
+sc = StandardScaler()
